@@ -1,0 +1,8 @@
+fastapi==0.110.0
+uvicorn==0.27.1
+onnxruntime==1.17.1
+Pillow==9.2.0
+torchvision==0.14.1
+numpy==1.26.1
+scipy==1.12.0
+python-multipart==0.0.9
